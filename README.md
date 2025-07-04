@@ -1,2 +1,2 @@
 # CSI
-Assignments of Celebal Summer Internship
+This repository contains all weekly assignments of Celebal Summer Internship.
